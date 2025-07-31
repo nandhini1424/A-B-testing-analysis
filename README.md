@@ -39,7 +39,7 @@ pip install pandas numpy scikit-learn joblib
 
 2. Run the script:
    ```bash
-   python ab_test_model.py
+   python main.py
 ## 🧠 How It Works
 - Loads user data with columns:
   userid, version, sum_gamerounds, retention_1, retention_7
