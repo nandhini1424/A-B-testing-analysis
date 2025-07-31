@@ -81,3 +81,6 @@ Name: predicted_retention, dtype: float64
 The better version is: gate_40
 ```
 
+## ✏️ Author
+
+Built and documented by [nandhini1424](https://github.com/nandhini1424)
